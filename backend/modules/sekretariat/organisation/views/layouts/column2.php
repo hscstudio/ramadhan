@@ -18,7 +18,7 @@ use hscstudio\heart\widgets\Breadcrumbs;
 					['icon'=>'fa fa-dashboard','label' => 'Dashboard', 'url' => ['/sekretariat-organisation/default/index']],
 					['icon'=>'fa fa-list','label' => 'Reference', 'url' => ['#'], 'items'=>[
 						['icon'=>'fa fa-angle-double-right','label' => 'Graduate', 'url' => ['/sekretariat-organisation/graduate/index'], 'path'=>'/sekretariat-organisation/graduate'],
-						['icon'=>'fa fa-angle-double-right','label' => 'Program Code', 'url' => ['/']],
+						['icon'=>'fa fa-angle-double-right','label' => 'Program Code', 'url' => ['/sekretariat-organisation/program-code/index'],'path'=>'/sekretariat-organisation/program-code'],
 						['icon'=>'fa fa-angle-double-right','label' => 'Rank Class', 'url' => ['/']],
 						['icon'=>'fa fa-angle-double-right','label' => 'Religion', 'url' => ['/']],
 						['icon'=>'fa fa-angle-double-right','label' => 'Satker', 'url' => ['/']],
