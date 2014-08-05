@@ -35,7 +35,7 @@ return [
 						'gii/*',
 						'privilege/*',
 						'user/*', 
-						
+						'employee/*',
 						'sekretariat-organisation/*',
 						
 						'pusdiklat-planning/*',
