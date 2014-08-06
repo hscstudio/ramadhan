@@ -19,10 +19,10 @@ use hscstudio\heart\widgets\Breadcrumbs;
 					['icon'=>'fa fa-list','label' => 'Reference', 'url' => ['#'], 'items'=>[
 						['icon'=>'fa fa-angle-double-right','label' => 'Graduate', 'url' => ['/sekretariat-organisation/graduate/index'], 'path'=>'/sekretariat-organisation/graduate'],
 						['icon'=>'fa fa-angle-double-right','label' => 'Program Code', 'url' => ['/sekretariat-organisation/program-code/index'],'path'=>'/sekretariat-organisation/program-code'],
-						['icon'=>'fa fa-angle-double-right','label' => 'Rank Class', 'url' => ['/']],
-						['icon'=>'fa fa-angle-double-right','label' => 'Religion', 'url' => ['/']],
-						['icon'=>'fa fa-angle-double-right','label' => 'Satker', 'url' => ['/']],
-						['icon'=>'fa fa-angle-double-right','label' => 'Unit', 'url' => ['/']],
+						['icon'=>'fa fa-angle-double-right','label' => 'Rank Class', 'url' => ['/sekretariat-organisation/rank-class/index'],'path'=>'/sekretariat-organisation/rank-class'],
+						['icon'=>'fa fa-angle-double-right','label' => 'Religion', 'url' => ['/sekretariat-organisation/religion/index'],'path'=>'/sekretariat-organisation/religion'],
+						['icon'=>'fa fa-angle-double-right','label' => 'Satker', 'url' => ['/sekretariat-organisation/satker/index'],'path'=>'/sekretariat-organisation/satker'],
+						['icon'=>'fa fa-angle-double-right','label' => 'Unit', 'url' => ['/sekretariat-organisation/unit/index'],'path'=>'/sekretariat-organisation/unit'],
 					]],					
 				]
 			]) ?>
